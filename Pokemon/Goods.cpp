@@ -24,3 +24,5 @@ class Hyper_Potion {
 class Poke_Ball {
 
 };
+
+//“ªÀ¶¥Û…µ±∆
